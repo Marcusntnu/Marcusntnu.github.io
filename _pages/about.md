@@ -1,26 +1,27 @@
 ---
 layout: about
-title: about
+title: Marcus Henriksbø
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MSc Computer Science (AI) | MSc Industrial Economics and Tech Management @NTNU
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image: /profile-pic.png
+  image_circular: true # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Trondheim, Troendelag county</p>
+    <p>Norway</p>
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm Marcus Henriksbø, just graduated from an integrated master's programs in Computer Science (specializing in AI) and currently pursuing a integrated master's in Industrial Economics and Technology Management at the Norwegian University of Science and Technology (NTNU). I'm writing my thesis there the coming year on responsible AI. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Beyond the academic world, my passion also lies in management and organizing skills that have been honed through various volunteer positions, having held key roles in ISFiT, the world's largest international student festival, and Revolve NTNU, a top Formula Student team. I'm also an active member of Effective Altruism, where I engage in meaningful conversations on optimizing for good.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My technical expertise includes Machine learning (NLP, some CV and timeseries), Full-stack (React.js, Django, SQL or noSQL), lots of Python, and internships and positions at organizations such as Norges Bank Investment Management (Norway's sovereign wealth fund, the oil und) and Cognite (Norways first unicorn, SaaS company).
+
+For collaborations or to get in touch, reach out to me at [henriksboe@gmail.com](mailto:henriksboe@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/marcushenriksbo).
