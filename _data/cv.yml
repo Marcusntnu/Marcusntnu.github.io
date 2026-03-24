@@ -1,30 +1,68 @@
-- title: General Information
+- title: Profile
   type: map
   contents:
-    - name: Full Name
-      value: Marcus Tiedemann Oekland Henriksboe
-    - name: Date of Birth
-      value: 24th March 1998
-    - name: Languages
-      value: Norwegian (Danish and Swedish by virtue of this), English, some French and Spanish
+    - name: Summary
+      value: "Integrated master's degrees in Computer Science (AI) and Industrial Economics & Technology Management from NTNU, with experience across machine learning, quantitative research, full-stack product engineering, and data integrations. Recently founded TrainedOn AI, which builds portfolio-level evidence workflows for assessing whether image-generation models were trained on specific creators' work. Leadership experience from ISFiT and Revolve NTNU."
 
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science - MS, Industrial Economics and Technology Management (Sivilingeniør)
-      institution: NTNU (Norwegian University of Science and Technology), Trondheim
+    - title: MSc Industrial Economics and Technology Management
+      institution: NTNU, Trondheim
       year: Aug 2019 — Jun 2024
       description:
-        - Most competetive STEM program in Norway.
-        - During this integrated master's program, I did the technical major in Computer Science and Artificial Intelligence. The business major of my Industrial Economics program was on Strategy, Innovation, and International Business Development.
-        - 'Business major: Strategy, Innovation, and International Business Development. Master''s thesis on "Responsible AI Innovation".'
-    - title: Master of Science - MS, Computer Science (Sivilingeniør)
-      institution: NTNU (Norwegian University of Science and Technology), Trondheim
-      year: 2017 — 2023
+        - "Major in Strategy and International Business; Minor in Computer Science."
+        - 'Thesis on responsible AI innovation.'
+    - title: MSc Computer Science
+      institution: NTNU, Trondheim
+      year: Aug 2017 — Jun 2023
       description:
-        - Most competetive CS program in Norway. I specialized in Artificial Intelligence.
-        - I decided to extend my studies by a year to accommodate an integrated degree in industrial economics, which I pursued simultaneously.
-        - My master's thesis, titled "Prompting Generative Models for Named Entity Recognition using Language and Visuals", explores the capabilities of LLMs and multimodal LLMs in recognizing entities, especially people, by leveraging both linguistic and visual cues.
+        - Specialization in Artificial Intelligence.
+        - 'Thesis: "Prompting Generative Models for Named Entity Recognition using Language and Visuals".'
+    - title: Exchange Semester
+      institution: EPFL, Switzerland
+      year: Aug 2021 — Feb 2022
+    - title: Exchange Semester
+      institution: Sapienza University of Rome, Italy
+      year: Mar 2022 — Sep 2022
+    - title: High School Diploma
+      institution: Danielsen High School, Norway
+      year: Aug 2014 — Jun 2017
+      description:
+        - Research-focused curriculum with emphasis on natural sciences.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Founder
+      institution: TrainedOn AI, Bergen
+      year: Oct 2025 — Present
+      description:
+        - Building portfolio-level evidence workflows to estimate whether image-generation models were trained on specific creators' work.
+        - Designing the evaluation pipeline across data handling, experiment tracking, evidence generation, and review-ready reporting.
+    - title: Software Engineer & Data Integration Lead
+      institution: Whitson, Houston, TX
+      year: Aug 2024 — Jun 2025
+      description:
+        - Built product features across a Flask, Vue 2, and PostgreSQL SaaS platform for industrial operations.
+        - Designed and shipped customer data integrations with Databricks, Snowflake, and remote databases.
+        - Worked closely with customers on onboarding, support, and integration troubleshooting.
+    - title: Research Assistant
+      institution: NorwAI, Trondheim
+      year: Aug 2023 — Apr 2024
+      description:
+        - Worked on data curation and benchmarking for the NorGPT large language model.
+    - title: Teaching Assistant
+      institution: NTNU, Trondheim
+      year: Aug 2019 — Apr 2024
+      description:
+        - "Guided students and graded coursework (~100–120 hrs/semester)."
+        - "Courses: TDT4171 AI Methods, TDT4259 Data Science, TDT4137 Cognitive Architectures, TDT4310 NLP, TDT4127 Programming, TTM4100 Networks, TIØ4295 Managerial Economics."
+    - title: Method & Full Stack Developer
+      institution: Wiseline AS, Trondheim
+      year: Sep 2022 — Aug 2023
+      description:
+        - Developed React/Django/PostgreSQL analytics tools for electric grid inspection optimization.
 
 - title: Internships
   type: time_table
@@ -33,71 +71,73 @@
       institution: Norges Bank Investment Management, Oslo
       year: Jun 2023 — Aug 2023
       description:
-        - NBIM, sometimes referred to as the Norwegian Oil Fund, is the world's largest single investor with $1.3 trillion AUM.
-        - I was involved in the development of machine learning models for short-term equity prediction, contributing to the refinement and testing process, driving significant value in production.
+        - Worked on systematic investing problems at NBIM, the Norwegian sovereign wealth fund.
+        - Built short-term equity prediction models using machine learning.
+        - Improved robustness and performance of modeling in live equity strategies.
     - title: Customer Success Intern
       institution: Cognite, Oslo
       year: Jun 2021 — Aug 2021
       description:
-        - At Cognite, a unicorn DataOps company from Norway, I worked on a beta project, enhancing user onboarding processes, mapping customer journeys, and providing technical consultations to ensure seamless user experiences.
+        - Contributed to onboarding and technical consulting for a DataOps platform during its beta phase at Norwegian tech unicorn Cognite.
     - title: Developer Intern
-      institution: Mnemonic, Oslo
+      institution: Mnemonic AS, Oslo
       year: Jun 2020 — Jul 2020
       description:
-        - At Mnemonic, a leading cybersecurity firm, I developed data-streaming and metrics solutions primarily using Python.
-        - I was also actively involved in evaluations and decisions regarding system architecture, ensuring optimal performance and security.
-    - title: Summer Internship
+        - Created Python pipelines and data-streaming tools for cybersecurity insights.
+    - title: Developer Intern
       institution: Buypass AS, Oslo
       year: Jun 2019 — Aug 2019
       description:
-        - At Buypass, I prototyped a secure passwordless authentication solution for web applications based on Open ID Connect (OIDC) and FIDO2 standards.
-        - My role encompassed setting up a FIDO backend service, crafting a web application for service management, and refining internal DevOps processes for enhanced efficiency.
+        - Built a FIDO2-based passwordless authentication demo in Java/JS.
+        - Established backend service and CI/CD setup.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Research Assistant
-      institution: NorwAI
-      year: Aug 2023 — Present
-      description:
-        - Assisted in research related to the Norwegian large language model, NorGPT, helping in refining and testing the model's capabilities.
-    - title: Teaching Assistant
-      institution: NTNU
-      year: Aug 2019 — Present
-      description:
-        - Supported student learning by providing guidance and correction of exercises in courses such as TDT4127 Programming and Numerics, TTM4100 Communication services and networks, TDT4171 Artificial Intelligence Methods, and TDT4259 Applied Data Science.
-    - title: Method and Full Stack Developer
-      institution: Wiseline AS
-      year: Sep 2022 — Present
-      description:
-        - Engaged in development on a React, Django, and PostgreSQL stack.
-        - Contributed to an electricity grid analytics platform that aims to optimize inspection and maintenance procedures.
-    - title: Full Stack Developer
-      institution: Goalkeeper
-      year: Nov 2018 — Sep 2019
-      description:
-        - Contributed to the development of a social workout gamification platform, primarily using the MERN stack.
-        - Involved in both backend development and user interface design.
-
-- title: Extra-Curricular Activities
+- title: Leadership & Extracurriculars
   type: time_table
   contents:
     - title: Chairman
-      institution: ISFiT (The International Student Festival in Trondheim)
-      year: Sept 2019 — Jun 2023
+      institution: ISFiT Foundation, Trondheim
+      year: Jun 2021 — Jun 2023
       description:
-        - Serving as the Chairman of the ISFiT Foundation for two years, I oversaw foundation meetings and strategized on the long-term direction for ISFiT and the Students' Peace Prize.
-        - Before this role, I was a board member and the Head of Organizational Resources for ISFiT 2021 — the world's largest international student festival with over 500 student volunteers.
-        - Managed teams across domains including Economic Management, Finance, IT, HR, and Internal Events.
+        - Led ISFiT — the world's largest international student festival (~500 volunteers) focused on dialogue, cultural exchange, and peace.
+        - Oversaw strategic governance and continuity.
+    - title: Board Member & Section Lead
+      institution: ISFiT 2021, Trondheim
+      year: Sep 2019 — Jun 2021
+      description:
+        - Led 5 core teams (Finance, IT, HR, Events, Economics).
+        - Directed operations for a globally recognized student organization.
     - title: Chief of Software
-      institution: Revolve NTNU
+      institution: Revolve NTNU, Trondheim
       year: May 2019 — Jun 2020
       description:
-        - Led a team of six developers in creating "Revolve Analyze", a proprietary analytics software.
-        - This software was pivotal for real-time communication with Formula Student racecars, both for in-race data acquisition and post-race data analysis.
-        - Revolve NTNU competes in the largest student engineering competition in the world.
-    - title: Participant
-      institution: Effective Altruism NTNU
-      year: Sep 2020 — Present
+        - Led 6 developers building telemetry systems for electric/autonomous Formula Student cars.
+        - Revolve ranked top 1% globally in student racing.
+    - title: Full Stack Developer
+      institution: Goalkeeper, Trondheim
+      year: Nov 2018 — Sep 2019
       description:
-        - Active participant in discussions, seminars, and projects focusing on allocating resources to maximize positive global impact.
+        - Developed a social fitness platform in the MERN stack.
+    - title: Deputy Chair & Co-founder
+      institution: NTNUI Chess, Trondheim
+      year: Jun 2019 — Mar 2020
+      description:
+        - Founded the university's official chess club under Norway's largest student sports association.
+    - title: Member
+      institution: Effective Altruism NTNU, Trondheim
+      year: Sep 2020 — Jun 2024
+      description:
+        - Participated in projects, reading groups, and discussions on maximizing global impact through evidence-based reasoning.
+
+- title: Technologies
+  type: list
+  contents:
+    - "Languages: Python, C#, JavaScript, SQL, Bash, HTML/CSS"
+    - "Frameworks/Tools: Flask, Django, Vue 2, React, PostgreSQL, MongoDB, Databricks, Snowflake, RabbitMQ, Kubernetes, Git"
+    - "ML & Data Science: PyTorch, TensorFlow/Keras, scikit-learn, PyTorch Lightning, MLflow, Optuna, pandas, NumPy, SQLAlchemy"
+
+- title: Honors & Awards
+  type: time_table
+  contents:
+    - title: Winner, Gründerskolen VR Case
+      institution: Innovation Norway Entrepreneurship Program
+      year: 2018
