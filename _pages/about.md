@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm the founder of [TrainedOn AI](https://trainedonai.com/), which helps creators and rights-holders find out whether AI models have been trained on their work. Before starting TrainedOn, I worked at a SaaS company in Houston, Texas.
+I'm the founder of [TrainedOn AI](https://app.trainedonai.com/), which helps creators and rights-holders find out whether AI models have been trained on their work. Before starting TrainedOn, I worked at a SaaS company in Houston, Texas.
 
 I hold two integrated master's degrees from NTNU: Computer Science (specializing in AI) and Industrial Economics and Technology Management. During my studies, I co-authored a paper published at NeurIPS 2024 and my master's thesis was nominated for best AI thesis.
 
