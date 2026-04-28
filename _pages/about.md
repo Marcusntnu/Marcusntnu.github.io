@@ -24,6 +24,6 @@ I hold two integrated master's degrees from NTNU: Computer Science (specializing
 
 Previously, I've interned at Norges Bank Investment Management (the world's largest sovereign wealth fund), Cognite (Norway's first unicorn), and held leadership roles in ISFiT — the world's largest international student festival — and Revolve NTNU, a Formula Student racing team.
 
-On the side, I build hobby projects like [TilskuddPilot](https://tilskuddpilot.no/) and [OnlyGrades](https://www.onlygrades.no/), compete on [Numerai](https://numer.ai/auto_cloud), and tinker on [Kaggle](https://www.kaggle.com/marcushenriksboe/competitions).
+On the side, I build hobby projects like [TilskuddPilot](https://tilskuddpilot.no/) and [OnlyGrades](https://www.onlygrades.no/), and tinker on [Kaggle](https://www.kaggle.com/marcushenriksboe/competitions).
 
 For collaborations or to get in touch, reach out at [henriksboe@gmail.com](mailto:henriksboe@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/marcushenriksbo).
