@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Marcus Henriksbø
+title: Marcus Henriksboe
 permalink: /
 subtitle: MSc Computer Science (AI) | MSc Industrial Economics and Tech Management @NTNU
 
@@ -26,4 +26,4 @@ Previously, I've interned at Norges Bank Investment Management (the world's larg
 
 On the side, I've worked on projects like [TilskuddPilot](https://tilskuddpilot.no/), [OnlyGrades](https://www.onlygrades.no/), and [TrainedOn AI](https://app.trainedonai.com/), and I tinker on [Kaggle](https://www.kaggle.com/marcushenriksboe/competitions).
 
-For collaborations or to get in touch, reach out at [henriksboe@gmail.com](mailto:henriksboe@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/marcushenriksbo).
+For collaborations or to get in touch, reach out at [henriksboe@gmail.com](mailto:henriksboe@gmail.com) or connect on [LinkedIn](https://www.linkedin.com/in/marcus-henriksbo).
